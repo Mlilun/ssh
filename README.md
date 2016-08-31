@@ -1,4 +1,4 @@
-# ssh整合
+# ssh整合（Struts2.3.3+Spring3.0.2+Hibernate3）
 
 1、创建一个web project  
 
